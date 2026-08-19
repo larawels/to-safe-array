@@ -1,0 +1,17 @@
+{
+  "name": "to-safe-array",
+  "version": "1.0.0",
+  "description": "Converts any JavaScript value into an array, safely",
+  "main": "src/index.js",
+  "files": ["src"],
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": ["array", "convert", "safe", "cast"],
+  "license": "MIT",
+  "author": "Toby Maxham",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larawels/to-safe-array.git"
+  }
+}
